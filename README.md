@@ -1,4 +1,4 @@
-# KH-Macro-Controller-V2
+# KH Macro Controller V2
 Macro Controller for KH use, for use by A/V and/or Zoom Attendant.
 
 Currently in use in some Congregations in UK and Paris.
